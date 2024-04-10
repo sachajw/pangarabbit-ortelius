@@ -11,7 +11,7 @@ ingress:
   enum:
     alb: "OFF"
     glb: "OFF"
-    k3d: "OFF"
+    k3d: "ON"
     volumemnt: ""
     sslcert: "ON"
     ssloff: "OFF"
